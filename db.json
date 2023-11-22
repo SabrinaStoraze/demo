@@ -12,23 +12,29 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Brasileira",
-      "img_url": "https://i.ibb.co/BjDLyWy/brasileira.png"
+      "nome": "Eventos",
+      "img_url": "https://i.ibb.co/dr9RTVJ/afonso-9.jpg"
     },
     {
       "id": 2,
-      "nome": "Marmita",
+      "nome": "Restaurantes",
       "img_url": "https://i.ibb.co/8rS5n8L/marmita.png"
     },
     {
       "id": 3,
-      "nome": "Lanches",
+      "nome": "Lanchonetes",
       "img_url": "https://i.ibb.co/xDNLNfy/lanches.png"
     },
     {
       "id": 4,
-      "nome": "Almoço",
-      "img_url": "https://i.ibb.co/8rS5n8L/marmita.png"
+      "nome": "Bares",
+      "img_url": "https://i.ibb.co/KscS6CG/afonso-11.png"
+    },
+
+    {
+      "id": 4,
+      "nome": "Pontos Turisticos",
+      "img_url": "https://i.ibb.co/92qt6vJ/afonso-1.jpg"
     }
   ],
   "restaurantes": [
