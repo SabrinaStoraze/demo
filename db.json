@@ -50,18 +50,11 @@
       "id": 2,
       "nome": "Author's Cusine",
       "nota": "4.3",
-      "categoria": "Petiscaria",
+      "categoria": "Restaurante",
       "distancia": "8Km",
       "url_img": "https://i.ibb.co/SJBxVXn/logotipo-do-restaurante-retro-23-2148463922.jpg"
     },
-    {
-      "id": 3,
-      "nome": "The Dinner café",
-      "nota": "4.3",
-      "categoria": "Café",
-      "distancia": "2Km",
-      "url_img": "https://i.ibb.co/r5njprF/dinner.jpg"
-    },
+
     {
       "id": 4,
       "nome": "elRetiro",
