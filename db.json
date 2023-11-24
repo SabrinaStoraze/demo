@@ -78,14 +78,14 @@
       "nome": "Show",
       "categoria": "Evento",
       "endereco": "Rua 200, nº 6",
-      "url_img": "https://i.ibb.co/p3RT5KS/ingresso-Evento.png"
+      "url_img": "https://i.ibb.co/r2drH8w/ingresso-Evento.png"
     },
     {
       "id": 2,
       "nome": "Peça de teatro",
       "categoria": "Evento",
       "endereco": "Rua José, nº 76",
-      "url_img": "https://i.ibb.co/p3RT5KS/ingresso-Evento.png"
+      "url_img": "https://i.ibb.co/r2drH8w/ingresso-Evento.png"
     }
   ]
 }
