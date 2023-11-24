@@ -71,5 +71,21 @@
       "distancia": "6Km",
       "url_img": "https://i.ibb.co/qj3LvQ1/restaurante.jpg"
     }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Show",
+      "categoria": "Evento",
+      "endereço": "Rua 200, nº 6",
+      "url_img": "https://i.ibb.co/p3RT5KS/ingresso-Evento.png"
+    },
+    {
+      "id": 2,
+      "nome": "Peça de teatro",
+      "categoria": "Evento",
+      "endereco": "Rua José, nº 76",
+      "url_img": "https://i.ibb.co/p3RT5KS/ingresso-Evento.png"
+    }
   ]
 }
