@@ -87,5 +87,23 @@
       "endereco": "Rua José, nº 76",
       "url_img": "https://i.ibb.co/r2drH8w/ingresso-Evento.png"
     }
+  ],
+  "lanchonetes": [
+    {
+      "id": 1,
+      "nome": "Estação Lanches",
+      "nota": "4.7",
+      "categoria": "Lanchonete",
+      "distancia": "3Km",
+      "url_img": "https://i.ibb.co/ZNyDNsh/lanches1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Expresso Lanches",
+      "nota": "4.5",
+      "categoria": "Lanchonete",
+      "distancia": "1.5Km",
+      "url_img": "https://i.ibb.co/m6jVjQP/lanches2.png"
+    }
   ]
 }
