@@ -105,5 +105,32 @@
       "distancia": "1.5Km",
       "url_img": "https://i.ibb.co/m6jVjQP/lanches2.png"
     }
+  ],
+  "bares": [
+    {
+      "id": 1,
+      "nome": "Neon Bar",
+      "nota": "4.6",
+      "categoria": "Bar",
+      "distancia": "2.1Km",
+      "url_img": "https://i.ibb.co/sbhPDPJ/bar3.png"
+    },
+    {
+      "id": 2,
+      "nome": "Sport Bar",
+      "nota": "4.3",
+      "categoria": "Bar",
+      "distancia": "1.5Km",
+      "url_img": "https://i.ibb.co/XttQnzb/bar2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Retrô Bar",
+      "nota": "4.9",
+      "categoria": "Bar",
+      "distancia": "1.9Km",
+      "url_img": "https://i.ibb.co/vjS2rMc/bar1.jpg"
+    }
+   
   ]
 }
